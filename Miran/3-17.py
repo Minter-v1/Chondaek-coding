@@ -12,6 +12,6 @@ for w in word:
             check = False
             break
     if check is True:
-        cnt += 2
+        cnt += 1
 
 print(cnt)
